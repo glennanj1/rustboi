@@ -8,7 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Welcome To Rustboi's Official</h1>
         <h2>Fresh wipe every Thursday</h2>
-        <h3>Gather & Drop Rate 2X</h3>
+        <h2>Last Wipe 12/30/21</h2>
+        <h3>Gather & Drop Rate 10X</h3>
       </header>
     </div>
   );
