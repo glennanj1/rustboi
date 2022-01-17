@@ -12,6 +12,7 @@ function App() {
         <h3>10X Server</h3>
         <h3>&</h3>
         <h3>2X Server</h3>
+        <button><a href="https://discord.gg/t6umrsMWSq" title="discord">Discord</a></button>
       </header>
     </div>
   );
