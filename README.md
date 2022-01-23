@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Credits 
+
+Spinning Militaristic Series AK Model Credit Below: 
+
+Model Information:
+* title:	Militaristic Series AK
+* source:	https://sketchfab.com/3d-models/militaristic-series-ak-10becc2db19e4405bb09e94936d90432
+* author:	TeddyEU (https://sketchfab.com/TeddyEU)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
