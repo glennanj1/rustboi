@@ -18,8 +18,8 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h1>Welcome To Rustboi's Official</h1>
         <h2>Fresh wipe every Thursday</h2>
-        <h2>Last Wipe 02/24/2022</h2>
-        <h3>10X Server & 2X Server</h3>
+        <h2>Last Wipe 03/06/2022</h2>
+        <h3>2X Server</h3>
         <button><a href="https://discord.gg/t6umrsMWSq" title="discord">Discord</a></button>
         <Canvas camera={{zoom: 100, position: [0, 0, 100]}}>
           <Suspense fallback={null}>
